@@ -1,7 +1,7 @@
 # TI-RSLK
-2020TI机器人培训
+2020 TI机器人
 
-基于MSP432P401R-LAUNCHPAD
+基于MSP432P401R-Launchpad
 
 2个组各自写的代码
 
