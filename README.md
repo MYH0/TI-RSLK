@@ -1,7 +1,9 @@
 # TI-RSLK
 2020 TI机器人
 
-基于MSP432P401R-Launchpad
+IDE:CCS v10
+
+Boars:MSP432P401R_Launchpad
 
 2个组各自写的代码
 
